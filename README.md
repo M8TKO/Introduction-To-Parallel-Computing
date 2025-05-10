@@ -17,7 +17,6 @@ Throughout this course, I gained hands-on experience in:
 - 📚 Sparse matrix storage (CSR format) and **matrix-vector multiplication**
 - 🔄 Recursive and tree-based algorithms for scan and merge
 - 📈 Benchmarking and validating results with **serial vs. parallel implementations**
-- 🧪 Using **norms** to measure numerical accuracy of parallel algorithms
 
 ---
 
